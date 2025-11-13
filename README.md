@@ -1,8 +1,8 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+<h1 align="left">JAY SHELKE</h1>
 
 ###
 
-<p align="left">My name is ... and I'm a ..., from ....</p>
+<p align="left">I'm a Data Analyst, from Mumbai who is looking to create value for business from the data they spend so much on.</p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
+<p align="left">✨ Solving Problems since 2015<br>📚 I'm currently learning Stakeholder Management<br>🎯 Goals: Business Optimiser cum Solution drum<br>🎲 Fun fact: My favorite shape? The bell curve.</p>
 
 ###
 
@@ -18,22 +18,39 @@
 
 ###
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="40" alt="storybook logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="40" alt="nestjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo"  />
-</div>
+
+- SQL
+  - Windows Function
+  - Group By
+  - Aggregation
+  - Joins
+
+
+- Power BI
+  - Dax Queries
+  - Viz Selection
+  - Calculated Columns
+  - Measures
+
+
+- Python
+  - Managing Data Pipelines
+  - NumPy
+  - Pandas Dataframes
+  - Plotly
+  - MatPlotlib
+ 
+    
+- R Programing
+  - R Shiny Dashboarding
+  - GgPlot
+  - Shiny Widgets
+  - Dplyr
+ 
+- Excel
+  - Pivot
+  - Dashboard
+  - Macros
+  - Ad Hoc Analysis
 
 ###
